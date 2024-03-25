@@ -1,4 +1,5 @@
   # FESTAMP
+  
 **그린 아카데미 Node.js & React 기반 풀스택 개발자 양성과정**
 ##### React Project [2023.12.26 ~ 2024.01.09]
 
@@ -70,7 +71,11 @@ Stamp 이벤트를 도입하여 축제 참여 유도와 지역 경제발전으�
 * Fastamp 주소  
 https://seeoya.github.io/festamp/
 
+* 시연 영상
+https://youtu.be/5FeoIzeyZJk?si=oqTWmcA6CJC7rJSW
+
 * 기획 문서  
-https://docs.google.com/document/d/1jgHqieCp1A0Apue23lpooUCO52j5oubIT-1w0af9DBU/edit?usp=sharing   
+https://docs.google.com/document/d/1jgHqieCp1A0Apue23lpooUCO52j5oubIT-1w0af9DBU/edit?usp=sharing
+
 * 일정표(엑셀)  
 https://docs.google.com/spreadsheets/d/1M2SXLV6LnX1kDpQ2XgQZQCUrE2nvvXg-xT9Y88UWTbQ/edit?usp=sharing
