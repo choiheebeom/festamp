@@ -38,7 +38,7 @@ Stamp 이벤트를 도입하여 축제 참여 유도와 지역 경제발전으�
 
 #### 참조
 * Fastamp 주소  
-https://choiheebeom.github.io/festamp/
+https://seeoya.github.io/festamp/
 
 * 시연 영상
 https://youtu.be/5FeoIzeyZJk?si=oqTWmcA6CJC7rJSW
